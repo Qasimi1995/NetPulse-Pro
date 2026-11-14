@@ -1,0 +1,45 @@
+PackageIdentifier: Qasimi1995.NetPulsePro
+PackageVersion: 1.0.0
+PackageLocale: en-US
+Publisher: Qasimi1995
+PublisherUrl: https://github.com/Qasimi1995
+PublisherSupportUrl: https://github.com/Qasimi1995/NetPulse-Pro/issues
+Author: Qasimi1995
+PackageName: NetPulse Pro
+PackageUrl: https://github.com/Qasimi1995/NetPulse-Pro
+License: MIT
+LicenseUrl: https://github.com/Qasimi1995/NetPulse-Pro/blob/main/LICENSE
+Copyright: Copyright (c) 2026 Qasimi1995
+ShortDescription: "Obsidian-dark real-time Windows network telemetry and bandwidth monitor featuring a 220 degree dual-arc speedometer gauge, live traffic graph, non-destructive cycle resets and system tray integration."
+Description: |
+  NetPulse Pro is a standalone Windows desktop application that visualises live
+  network throughput with a hand-drawn 220 degree dual-arc speedometer gauge,
+  tracks monitored and per-cycle bandwidth, supports range analytics with CSV
+  export, and stays out of the way in the system tray.
+Moniker: netpulse-pro
+Tags:
+  - network-monitor
+  - bandwidth
+  - telemetry
+  - system-tray
+  - windows
+ReleaseNotes: |
+  Initial public release (v1.0.0): 220 degree dual-arc speedometer gauge,
+  Live Telemetry with cycle start tracking, non-destructive UTC usage reset,
+  range analytics and CSV export, and 150 percent DPI support.
+ReleaseNotesUrl: https://github.com/Qasimi1995/NetPulse-Pro/releases/tag/v1.0.0
+InstallationNotes: "NetPulse Pro is fully portable. It stores its database and settings under %LOCALAPPDATA%\NetPulse Pro\."
+Documentations:
+  - DocumentLabel: README
+    DocumentUrl: https://github.com/Qasimi1995/NetPulse-Pro/blob/main/README.md
+Installers:
+  - Architecture: x64
+    InstallerType: portable
+    InstallerUrl: https://github.com/Qasimi1995/NetPulse-Pro/releases/download/v1.0.0/NetPulse.Pro.exe
+    InstallerSha256: 19F9387C53611C55D971A528A62A08A8D418DD6B31150C69F72A4B1FAD423B43
+    InstallerSwitches:
+      Silent: /S
+      SilentWithProgress: /S
+    ReleaseDate: 2026-11-14
+ManifestType: installer
+ManifestVersion: 1.9.0

@@ -5,9 +5,11 @@
 ### Precision network telemetry for Windows — a 220° glowing speedometer, live throughput analytics and a non-destructive usage cycle tracker.
 
 [![Release](https://img.shields.io/github/v/release/Qasimi1995/NetPulse-Pro?style=for-the-badge&color=10B981)](https://github.com/Qasimi1995/NetPulse-Pro/releases/latest)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![License](https://img.shields.io/badge/License-MIT-3B82F6?style=for-the-badge)](LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/Qasimi1995/NetPulse-Pro/total?style=for-the-badge&color=0EA5E9&label=Downloads)](https://github.com/Qasimi1995/NetPulse-Pro/releases/latest)
+[![Stars](https://img.shields.io/github/stars/Qasimi1995/NetPulse-Pro?style=for-the-badge&color=F59E0B)](https://github.com/Qasimi1995/NetPulse-Pro/stargazers)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)](https://github.com/Qasimi1995/NetPulse-Pro/releases)
+[![License](https://img.shields.io/github/license/Qasimi1995/NetPulse-Pro?style=for-the-badge&color=3B82F6)](LICENSE)
+[![LinkedIn](https://img.shields.io/badge/Author-Fawad%20Qasimi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fawad-qasimi-b11730ba/)
 
 **[⬇ Download Latest Release](https://github.com/Qasimi1995/NetPulse-Pro/releases/latest)** &nbsp;·&nbsp;
 [Features](#-features) &nbsp;·&nbsp; [Installation](#-installation) &nbsp;·&nbsp; [Building](#-building-from-source) &nbsp;·&nbsp; [Changelog](CHANGELOG.md)

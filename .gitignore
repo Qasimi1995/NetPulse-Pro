@@ -25,6 +25,9 @@ ENV/
 settings.json
 *.log
 
+# Local launch / marketing kit (not published)
+LAUNCH_POSTS.md
+
 # IDE / editors
 .vscode/
 .idea/
